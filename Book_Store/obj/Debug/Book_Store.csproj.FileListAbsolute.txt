@@ -1,0 +1,12 @@
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\bin\Debug\Book_Store.exe.config
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\bin\Debug\Book_Store.exe
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\bin\Debug\Book_Store.pdb
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.csprojAssemblyReference.cache
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.Anasayfa.resources
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.Properties.Resources.resources
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.csproj.GenerateResource.cache
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.exe
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.pdb
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.Kayit.resources
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.Admin.resources
+C:\Users\Baskaya\source\repos\Book_Store\Book_Store\obj\Debug\Book_Store.Kullanici.resources

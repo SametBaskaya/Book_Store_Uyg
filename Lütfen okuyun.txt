@@ -1,0 +1,9 @@
+
+
+Girişte form kısmında k.adı admin şifre admin yazarak admin paneline bağlababilirsiniz sil ekle güncelle var 
+İsterseniiz kayıt olabilirsiniz ya da user 123 ile kullanıcı kısmına girebilirsiniz orada sorgular var aramalar var
+
+Kullanıcı kısmında progressbar var orda stok kontrolüü barla gösterdim o sayılar veri tabanından çekiyor o sayılarıda bir labela aktardım en son kayıtın çektiği veri labelda yazıyor daha iyi kontrol edebilirsiniz diye.
+
+Sağlıklı günler hocam inşallah yakında görüşürüz :)
+
